@@ -1,0 +1,127 @@
+[33mcommit a4c584ad5daca493db002f2e0a5c0fd5904c6d89[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/login[m[33m)[m
+Author: Mitul <mitulankane0000@gmail.com>
+Date:   Tue Jul 21 18:29:49 2026 +0530
+
+    Added login
+
+[33mcommit ebf73f94093618a9bb645b1e680ff11ef2102c38[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Mitul <mitulankane0000@gmail.com>
+Date:   Tue Jul 21 18:36:57 2026 +0530
+
+    Created this
+
+[33mcommit 1e7c934e3538cebb02effbb684898f6cc48b7c27[m
+Author: Mitul <mitulankane0000@gmail.com>
+Date:   Tue Jul 21 13:56:11 2026 +0530
+
+    Added index.html
+
+[33mcommit 2b6e7af7bc44288e6020d7b08f0e08172bf034ce[m[33m ([m[1;33mtag: [m[1;33mv1.1[m[33m)[m
+Author: Mitul <mitulankane0000@gmail.com>
+Date:   Tue Jul 21 12:15:04 2026 +0530
+
+    Release 1.1
+
+[33mcommit c453712d2b9e0e10e3d927030e6d8007d1d1e160[m[33m ([m[1;33mtag: [m[1;33mv1.0[m[33m)[m
+Author: Mitul <mitulankane0000@gmail.com>
+Date:   Tue Jul 21 12:09:58 2026 +0530
+
+    Release 1
+
+[33mcommit 88a24d67cfd49262349eff0cfcbba0efedaa7dc3[m
+Author: Mitul <mitulankane0000@gmail.com>
+Date:   Tue Jul 21 11:47:16 2026 +0530
+
+    Renamed photo
+
+[33mcommit af1014f3ff4916ac88d1582460b454dc251940b2[m
+Merge: bbcf982 ebc23c4
+Author: Mitul <mitulankane0000@gmail.com>
+Date:   Tue Jul 21 11:28:41 2026 +0530
+
+    merging
+
+[33mcommit bbcf98247699f609ef4af532c145f4c86752c2ec[m
+Author: Mitul <mitulankane0000@gmail.com>
+Date:   Tue Jul 21 11:23:58 2026 +0530
+
+    B
+
+[33mcommit ebc23c415ce5afb63112c88da03a2dcf06e28097[m
+Author: Mitul <mitulankane0000@gmail.com>
+Date:   Tue Jul 21 11:20:53 2026 +0530
+
+    A
+
+[33mcommit 8187689699806b218c67a3f8151470fee1588cca[m
+Merge: 8198a38 0570e41
+Author: Mitul <mitulankane0000@gmail.com>
+Date:   Mon Jul 20 23:57:58 2026 +0530
+
+    Merge branch 'ui'
+
+[33mcommit 0570e417b3361699c201550e079febc779ca1103[m
+Author: Mitul <mitulankane0000@gmail.com>
+Date:   Mon Jul 20 23:53:54 2026 +0530
+
+    commit E
+
+[33mcommit 8198a38078df0ed515073c5e5a49d5aae5d8f111[m
+Author: Mitul <mitulankane0000@gmail.com>
+Date:   Mon Jul 20 23:49:19 2026 +0530
+
+    commit D
+
+[33mcommit 4ea3639cffc797cf3e84fce50f6b56614ac31489[m
+Author: Mitul <mitulankane0000@gmail.com>
+Date:   Mon Jul 20 23:44:42 2026 +0530
+
+    commit C
+
+[33mcommit 456c08ef0b937ce3baec61f19a5c291c8f0be14f[m
+Author: Mitul <mitulankane0000@gmail.com>
+Date:   Mon Jul 20 23:25:35 2026 +0530
+
+    commit B
+
+[33mcommit eee165315ccfb503469240bf2f86d5e4b4febda3[m
+Author: Mitul <mitulankane0000@gmail.com>
+Date:   Mon Jul 20 23:23:50 2026 +0530
+
+    commit A
+
+[33mcommit 0e5338a0bf1c1ddc975597c96b9f3a389be0b006[m
+Author: Mitul <mitulankane0000@gmail.com>
+Date:   Mon Jul 20 23:17:04 2026 +0530
+
+    Added img and info directories
+
+[33mcommit 82a0301fb4772ee71bea2d9c9bed462a894994a9[m
+Author: Mitul <mitulankane0000@gmail.com>
+Date:   Mon Jul 20 23:04:21 2026 +0530
+
+    assests and .gitignore is added
+
+[33mcommit eba78b35cf2538f882c084d5700ffaa079bcd476[m
+Author: Mitul <mitulankane0000@gmail.com>
+Date:   Sun Jul 19 13:41:09 2026 +0530
+
+    Added .gitignore
+
+[33mcommit 846876af0974a3d75ab2caf47569166b50062ab9[m
+Author: Mitul <mitulankane0000@gmail.com>
+Date:   Sun Jul 19 13:22:54 2026 +0530
+
+    Added asests
+
+[33mcommit 53dbbd2428d070c97e31b4e2edee68bd38fed95b[m
+Author: Mitul <mitulankane0000@gmail.com>
+Date:   Sun Jul 19 12:35:49 2026 +0530
+
+    Added navbar and container
+
+[33mcommit d1a2e616872f90add0af7dfa32dec42bd34d2070[m
+Author: Mitul <mitulankane0000@gmail.com>
+Date:   Sun Jul 19 12:21:50 2026 +0530
+
+    Added base file
